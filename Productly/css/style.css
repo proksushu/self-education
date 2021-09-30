@@ -66,8 +66,12 @@ button {
     border-radius: 4px;
     text-decoration: none;
 }
-.top {
+
+.top__inner {
+    background-image: url('../images/top_img.svg');
+    background-repeat: no-repeat;
     padding: 133px 0 80px;
+    background-position: bottom right;
 }
 .top__title {
     font-weight: bold;
