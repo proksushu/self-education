@@ -116,6 +116,13 @@ button {
 .tools {
     padding-top: 110px;
 }
+.tools__inner {
+   padding-bottom: 90px;
+   background-image: url('../images/tools_bg.svg');
+   background-repeat: no-repeat;
+   background-position: center bottom;
+   background-size: cover;
+}
 .tools__title {
     text-align: center;
     max-width: 539px;
@@ -155,4 +162,14 @@ button {
     text-decoration: none;
     max-width: 173px;
     margin: 0 auto;
+}
+.direction {
+    padding: 110px 0 100px;
+}
+.direction__item {
+    display: flex;
+    justify-content: space-between;
+}
+.direction__item-content {
+    max-width: 486px;
 }
