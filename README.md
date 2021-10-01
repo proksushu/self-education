@@ -1,1 +1,0 @@
-https://proksushu.github.io/self-education/productly/index.html
