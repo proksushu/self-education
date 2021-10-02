@@ -169,7 +169,28 @@ button {
 .direction__item {
     display: flex;
     justify-content: space-between;
+    margin-bottom: 100px;
 }
 .direction__item-content {
     max-width: 486px;
+}
+.direction__item-pretitle {
+    margin-bottom: 3px;
+
+}
+.direction__item-title {
+    font-size: 36px;
+    line-height: 54px;
+    font-weight: 700;
+    margin-bottom: 22px;
+}
+.direction__item-subtitle {
+    font-weight: 700;
+    margin-bottom: 12px;
+}
+.direction__item-text {
+    margin-bottom: 25px;
+}
+.direction__item-titletext {
+    margin-bottom: 30px;
 }
