@@ -249,15 +249,15 @@ button {
 }
 .team__item--3 {
     right: 0;
-    top: 610px;
+    bottom: 257px;
 }
 .team__item--4 {
-    left: 250px;
-    top: 600px;
+    left: 210px;
+    bottom: 223px;
 }
 .team__item--5 {
     right: 300px;
-    top: 650px;
+    bottom: 135px;
 }
 .team__text {
     margin-bottom: 45px;
@@ -299,7 +299,7 @@ button {
 .team__item-text--right::after,
 .team__item-text--right::before,
 .team__item-text--left::after,
-..team__item-text--left::before {
+.team__item-text--left::before {
     content: "";
     position: absolute;
     background-color: #ffffff;
@@ -324,5 +324,6 @@ button {
     right: auto;
 }
 .team__item-text--left::after {
-
+    left: 9px;
+    right: auto;
 }
