@@ -1,1 +1,1 @@
-https://confident-lamport-f2c320.netlify.app/
+https://productly-self-education.netlify.app/
